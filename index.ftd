@@ -1,0 +1,15 @@
+-- ftd.text: Hello world
+
+-- ftd.column:
+id: app
+
+-- end: ftd.column
+
+
+-- App:
+
+-- web-component App:
+js: main.js
+
+
+-- end: App
